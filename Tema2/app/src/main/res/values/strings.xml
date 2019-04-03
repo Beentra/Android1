@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tema 2</string>
+    <string name="insert_user">insert user</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="remove_user">delete user</string>
+    <string name="placeholder_text">Placeholder text</string>
+    <string name="rvTitle">Content of the RecyclerView</string>
+</resources>
